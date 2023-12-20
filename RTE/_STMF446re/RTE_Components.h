@@ -4,7 +4,7 @@
  *      *** Do not modify ! ***
  *
  * Project: 'EmbeddedCppWithArm' 
- * Target:  'STMF446re' 
+ * Target:  'STMF446RE' 
  */
 
 #ifndef RTE_COMPONENTS_H
